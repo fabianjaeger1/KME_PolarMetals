@@ -1,4 +1,4 @@
-# Kinetic Magnetoelectric Effect in Non-magnetic Polar Metals
+# Kinetic magnetoelectric effect in non-magnetic polar metals
 
 ![cover](cover.png)
 
